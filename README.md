@@ -1,4 +1,11 @@
-## Hi there 👋
+## xTyseth // Xand0
+
+IT Professional // Tech Enthusiast
+
+## Featured metrics
+![Metrics](./github-metrics.svg)
+
+
 
 <!--
 **xTyseth/xTyseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
